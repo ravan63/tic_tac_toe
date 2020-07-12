@@ -1,6 +1,10 @@
 body {
 	text-align: center;
- background: linear-gradient(20deg,sandyBrown, saddleBrown);
+ background: linear-gradient(20deg,sandyBrown, saddleBrown,darkblue);
+}
+
+p{
+	color:white;
 }
 
 h1 {
