@@ -1,0 +1,20 @@
+body {
+	text-align: center;
+ background: linear-gradient(20deg,sandyBrown, saddleBrown);
+}
+
+h1 {
+ color: white;
+ background-color: black;
+ margin-bottom: 50px;
+}
+
+.playButton {
+	width: 30px;
+	height: 30px;
+ margin-bottom: 4px;
+}
+
+#resetButton {
+ border-radius: 5px;
+}
